@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.9df5272b.chunk.css",
+    "main.js": "/Portfolio/static/js/main.794dbb6f.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.794dbb6f.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.575dce77.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.575dce77.js.map",
+    "static/js/2.1890c19b.chunk.js": "/Portfolio/static/js/2.1890c19b.chunk.js",
+    "static/js/2.1890c19b.chunk.js.map": "/Portfolio/static/js/2.1890c19b.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.9df5272b.chunk.css.map": "/Portfolio/static/css/main.9df5272b.chunk.css.map",
+    "static/js/2.1890c19b.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.1890c19b.chunk.js.LICENSE.txt",
+    "static/media/carreras.0323a1f1.pdf": "/Portfolio/static/media/carreras.0323a1f1.pdf",
+    "static/media/clima.1e11471e.PNG": "/Portfolio/static/media/clima.1e11471e.PNG",
+    "static/media/comida1.8904ef5e.jpg": "/Portfolio/static/media/comida1.8904ef5e.jpg",
+    "static/media/comunidad.615c4cbf.jpg": "/Portfolio/static/media/comunidad.615c4cbf.jpg",
+    "static/media/digitalers.52a31dbe.png": "/Portfolio/static/media/digitalers.52a31dbe.png",
+    "static/media/foto.5f772f77.jpg": "/Portfolio/static/media/foto.5f772f77.jpg",
+    "static/media/fotoCircular.f5a5c5cf.png": "/Portfolio/static/media/fotoCircular.f5a5c5cf.png",
+    "static/media/index.css": "/Portfolio/static/media/pc.34a0bf47.jpg",
+    "static/media/scrum.4e85de88.jpg": "/Portfolio/static/media/scrum.4e85de88.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.575dce77.js",
+    "static/js/2.1890c19b.chunk.js",
+    "static/css/main.9df5272b.chunk.css",
+    "static/js/main.794dbb6f.chunk.js"
+  ]
+}
