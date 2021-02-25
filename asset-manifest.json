@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.d2632abb.chunk.css",
-    "main.js": "/Portfolio/static/js/main.1336252f.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.1336252f.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.f57956bf.chunk.css",
+    "main.js": "/Portfolio/static/js/main.75ba2566.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.75ba2566.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.575dce77.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.575dce77.js.map",
     "static/js/2.997d064a.chunk.js": "/Portfolio/static/js/2.997d064a.chunk.js",
     "static/js/2.997d064a.chunk.js.map": "/Portfolio/static/js/2.997d064a.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "static/css/main.d2632abb.chunk.css.map": "/Portfolio/static/css/main.d2632abb.chunk.css.map",
+    "static/css/main.f57956bf.chunk.css.map": "/Portfolio/static/css/main.f57956bf.chunk.css.map",
     "static/js/2.997d064a.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.997d064a.chunk.js.LICENSE.txt",
     "static/media/carreras.ed061711.pdf": "/Portfolio/static/media/carreras.ed061711.pdf",
     "static/media/clima.23a42434.PNG": "/Portfolio/static/media/clima.23a42434.PNG",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.575dce77.js",
     "static/js/2.997d064a.chunk.js",
-    "static/css/main.d2632abb.chunk.css",
-    "static/js/main.1336252f.chunk.js"
+    "static/css/main.f57956bf.chunk.css",
+    "static/js/main.75ba2566.chunk.js"
   ]
 }
